@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tarunattri
 - 👀 I’m interested in ASIC verification and design
 - 🌱 I’m currently learning Verilog HDL
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on projects related to verification and design
 - 📫 How to reach me tarunattri1398@gmail.com
 
 <!---
